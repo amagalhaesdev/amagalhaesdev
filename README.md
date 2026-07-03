@@ -3,7 +3,7 @@
 
 - 🔭 atualmente trabalhando no projeto [automacao-callbox-infra](https://github.com/amagalhaesdev/automacao-callbox-infra)
 
-- 🌱 cursando **ciência da computação**
+- 🌱 cursando **ciência da computação** - fecap
 
 - 👨‍💻 projetos [https://github.com/amagalhaesdev?tab=repositories](https://github.com/amagalhaesdev?tab=repositories)
 

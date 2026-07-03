@@ -3,11 +3,11 @@
 
 - 🔭 atualmente trabalhando no projeto [automacao-callbox-infra](https://github.com/amagalhaesdev/automacao-callbox-infra)
 
-- 🌱 em formação **Ciência da Computação**
+- 🌱 cursando **ciência da computação**
 
 - 👨‍💻 projetos [https://github.com/amagalhaesdev?tab=repositories](https://github.com/amagalhaesdev?tab=repositories)
 
-- 📫 email **teste@gmail.com**
+- 📫 email **andreananias.job@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

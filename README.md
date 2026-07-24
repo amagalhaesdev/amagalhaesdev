@@ -64,16 +64,6 @@ Também possuo conhecimentos em desenvolvimento web utilizando HTML, CSS e PHP, 
 
 ---
 
-<h2 align="left">📂 Projetos</h2>
-
-<p align="left">
-Aqui você encontrará projetos desenvolvidos para aplicar conceitos de desenvolvimento backend, APIs REST, banco de dados e boas práticas de programação.
-<br><br>
-Cada projeto representa uma etapa da minha evolução técnica, buscando sempre melhorar qualidade de código, organização e conhecimento em engenharia de software.
-</p>
-
----
-
 <h2 align="left">📫 Contato</h2>
 
 <div align="center">
@@ -93,7 +83,7 @@ Cada projeto representa uma etapa da minha evolução técnica, buscando sempre 
 <h2 align="left">🐍 GitHub Contribution</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/gh-pages/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/gh-pages/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/gh-pages/pacman-contribution-graph.svg">
 </picture>

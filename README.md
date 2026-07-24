@@ -64,38 +64,6 @@ Também possuo conhecimentos em desenvolvimento web utilizando HTML, CSS e PHP, 
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amagalhaesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amagalhaesdev&layout=compact&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-<h2 align="left">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amagalhaesdev&theme=tokyo-night"/>
-
-</div>
-
----
-
-<h2 align="left">🐍 GitHub Contribution</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/gh-pages/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/gh-pages/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amagalhaesdev/amagalhaesdev/gh-pages/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <h2 align="left">📫 Contato</h2>
 
 <div align="center">

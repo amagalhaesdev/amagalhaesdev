@@ -11,7 +11,7 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
-Sou estudante de Ciência da Computação e atuo na área de suporte e sistemas, onde venho desenvolvendo experiência com tecnologia, resolução de problemas e manutenção de aplicações.
+Sou estudante de Ciência da Computação e atuo na área de suporte e sistemas, onde venho desenvolvendo experiência com tecnologia, análise de problemas e manutenção de aplicações.
 <br><br>
 Atualmente estou direcionando minha carreira para desenvolvimento Backend, com foco no ecossistema Java e Spring, criando APIs REST, trabalhando com bancos de dados e aplicando boas práticas de programação.
 <br><br>
@@ -61,6 +61,42 @@ Busco evoluir constantemente como desenvolvedor, unindo minha experiência prát
 <p align="left">
 Também possuo conhecimentos em desenvolvimento web utilizando HTML, CSS e PHP, além de experiência com criação de interfaces, lógica de programação e integração com aplicações backend.
 </p>
+
+---
+
+<h2 align="left">📂 Projetos</h2>
+
+<p align="left">
+Alguns projetos desenvolvidos para aplicar conhecimentos em desenvolvimento backend, APIs REST, automação e engenharia de software.
+</p>
+
+<br>
+
+<div align="left">
+
+🔹 <a href="https://github.com/amagalhaesdev/produtos-api-springboot">
+<strong>Produtos API Spring Boot</strong>
+</a>
+
+API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos, utilizando persistência de dados, banco H2, JPA/Hibernate e operações CRUD.
+
+<br><br>
+
+🔹 <a href="https://github.com/amagalhaesdev/automacao-callbox-infra">
+<strong>Automação Callbox Infra</strong>
+</a>
+
+Projeto relacionado à automação de fluxos de trabalho, envolvendo análise e integração com API externa. Foram realizadas validações da API, identificação de inconsistências e reporte de erros para a equipe responsável, visando viabilizar a implementação da automação.
+
+<br><br>
+
+🔹 <a href="https://github.com/amagalhaesdev/controle-de-lancamento-fiap">
+<strong>Controle de Lançamento FIAP</strong>
+</a>
+
+Projeto acadêmico desenvolvido durante um bimestre da graduação, aplicando conceitos de desenvolvimento de software, organização de código, gerenciamento de informações e boas práticas de programação.
+
+</div>
 
 ---
 

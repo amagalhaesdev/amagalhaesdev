@@ -81,7 +81,6 @@ Alguns projetos desenvolvidos para aplicar conhecimentos em desenvolvimento back
 API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos, utilizando persistência de dados, banco H2, JPA/Hibernate e operações CRUD.
 
 <br><br>
-
 🔹 <a href="https://github.com/amagalhaesdev/automacao-callbox-infra">
 <strong>Automação Callbox Infra</strong>
 </a>
@@ -89,7 +88,6 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos, uti
 Projeto relacionado à automação de fluxos de trabalho, envolvendo análise e integração com API externa. Foram realizadas validações da API, identificação de inconsistências e reporte de erros para a equipe responsável, visando viabilizar a implementação da automação.
 
 <br><br>
-
 🔹 <a href="https://github.com/amagalhaesdev/controle-de-lancamento-fiap">
 <strong>Controle de Lançamento FIAP</strong>
 </a>
